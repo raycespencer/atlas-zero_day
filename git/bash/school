@@ -1,2 +1,2 @@
-#!/bin/school echo "best"
-:wq
+#!/bin/bash
+#echo "school"
